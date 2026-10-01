@@ -1,0 +1,14 @@
+/home/kevin/sys-net-audit/src/bin/Debug/net8.0/SysNetAudit
+/home/kevin/sys-net-audit/src/bin/Debug/net8.0/SysNetAudit.deps.json
+/home/kevin/sys-net-audit/src/bin/Debug/net8.0/SysNetAudit.runtimeconfig.json
+/home/kevin/sys-net-audit/src/bin/Debug/net8.0/SysNetAudit.dll
+/home/kevin/sys-net-audit/src/bin/Debug/net8.0/SysNetAudit.pdb
+/home/kevin/sys-net-audit/src/obj/Debug/net8.0/SysNetAudit.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/sys-net-audit/src/obj/Debug/net8.0/SysNetAudit.AssemblyInfoInputs.cache
+/home/kevin/sys-net-audit/src/obj/Debug/net8.0/SysNetAudit.AssemblyInfo.cs
+/home/kevin/sys-net-audit/src/obj/Debug/net8.0/SysNetAudit.csproj.CoreCompileInputs.cache
+/home/kevin/sys-net-audit/src/obj/Debug/net8.0/SysNetAudit.dll
+/home/kevin/sys-net-audit/src/obj/Debug/net8.0/refint/SysNetAudit.dll
+/home/kevin/sys-net-audit/src/obj/Debug/net8.0/SysNetAudit.pdb
+/home/kevin/sys-net-audit/src/obj/Debug/net8.0/SysNetAudit.genruntimeconfig.cache
+/home/kevin/sys-net-audit/src/obj/Debug/net8.0/ref/SysNetAudit.dll
